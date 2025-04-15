@@ -15,10 +15,10 @@ I'm a computer science student at ASU working on my accelerated master's 🎓 (a
 
 ### 💡 Projects I’m proud of:
 
+- **[Capstone Helpdesk Ticketing System](https://github.com/Aditya9113/ticketing_system)** – Ticketing system for ASU capstone students
 - **[TootHurty](https://github.com/rheamane/clinic-check-in-system)** – A full-stack dental appointment platform for scheduling and managing patients
 - **[StudPals](https://github.com/rheamane/Sunhacks_StudPals)** – A study buddy matching app with a Python-Flask backend (shoutout to SunHacks 🏆)
 - **Effort Logger** – Productivity tracker built in Java + JavaFX with CI/CD
-- **[Capstone Helpdesk Ticketing System](https://github.com/Aditya9113/ticketing_system)** – Ticketing system for ASU capstone students
 
 ---
 
