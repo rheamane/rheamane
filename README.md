@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Rhea
+## Hey there! 👋 I'm Rhea
 
 I'm a computer science student at ASU working on my accelerated master's 🎓 (and just finished my bachelor's too — woohoo!). I'm passionate about full-stack development, product design, and building cool things that help people.
 
