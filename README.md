@@ -1,6 +1,7 @@
 ## Hey there! 👋 I'm Rhea
 
 I'm a computer science student at Arizona State University working on my accelerated master's 🎓. I am passionate about building scalable, user-focused software and leading high-impact technical projects
+
 ---
 
 ### 👩‍💻 What I’ve been up to lately:
