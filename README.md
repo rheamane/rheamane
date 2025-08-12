@@ -1,13 +1,12 @@
 ## Hey there! 👋 I'm Rhea
 
-I'm a computer science student at ASU working on my accelerated master's 🎓. I'm passionate about full-stack development, product design, and building cool things that help people.
-
+I'm a computer science student at Arizona State University working on my accelerated master's 🎓. I am passionate about building scalable, user-focused software and leading high-impact technical projects
 ---
 
 ### 👩‍💻 What I’ve been up to lately:
 
-- 🧠 Currently interning as an Application Developer at ASU, building and maintaining an academic advising platform used by 30k+ students
-- 💼 Just finished internships at Ricoh USA and Drive Insight where I worked on Agile process automation and a product dashboard website
+- 🧠 Currently working as an Application Developer at ASU, building and maintaining an academic advising platform used by 30k+ students
+- 💼 Recently wrapped up internships at American Cancer Society, Ricoh USA, and Drive Insight where I tackled projects from SharePoint data automation and Agile process optimization to interactive product dashboards
 - 💬 Dabble in hackathons, data science, UI/UX, and backend optimization
 - ✍️ My Barrett Honors Thesis was all about making computer science more culturally inclusive!
 
@@ -15,9 +14,11 @@ I'm a computer science student at ASU working on my accelerated master's 🎓. I
 
 ### 💡 Projects I’m proud of:
 
+- **[Agora](https://apple.co/3Hrhhk7)** - AI powered Philosophy App
+- **[Advising SOS](https://sos.wpcarey.asu.edu/)** - Academic Advising Facilitator App for WP Carey School of Business
 - **[Capstone Helpdesk Ticketing System](https://github.com/Aditya9113/ticketing_system)** – Ticketing system for ASU capstone students
 - **[TootHurty](https://github.com/rheamane/clinic-check-in-system)** – A full-stack dental appointment platform for scheduling and managing patients
-- **[StudPals](https://github.com/rheamane/Sunhacks_StudPals)** – A study buddy matching app with a Python-Flask backend (shoutout to SunHacks 🏆)
+- **[StudPals](https://github.com/rheamane/Sunhacks_StudPals)** – A study buddy matching app with a Python-Flask backend (sunhacks hackthon project 🏆)
 - **Effort Logger** – Productivity tracker built in Java + JavaFX with CI/CD
 
 ---
@@ -43,4 +44,4 @@ I'm currently looking for **full-time software engineering opportunities**. If y
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Thanks for stopping by 👀 feel free to check out my pinned projects or drop a ⭐ if something catches your eye!
+Thanks for stopping by!
