@@ -1,6 +1,7 @@
 ## Hey there! 👋 I'm Rhea
 
 I'm a software engineer at the University of Arizona College of Medicine 👩‍💻, and a recent M.S. Computer Science graduate from Arizona State University 🎓. I'm passionate about building scalable, user-focused software and leading high-impact technical projects.
+
 ---
 
 ### 👩‍💻 What I’ve been up to lately:
