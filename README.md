@@ -16,7 +16,7 @@ I'm a software engineer at the University of Arizona College of Medicine 👩‍
 
 ### 💡 Projects I’m proud of:
 
-- **[ActivFlows](https://ezphoenix-tst.colo-prod-aws.arizona.edu/dashboard)** – Interactive medical flow authoring platform with a React Flow graph editor and AWS S3 backend
+- **[ActivFlows](https://www.activflows.com/)** – Interactive medical flow authoring platform with a React Flow graph editor and AWS S3 backend
 - **[Agora](https://apple.co/3Hrhhk7)** - AI powered Philosophy App
 - **[Advising SOS](https://sos.wpcarey.asu.edu/)** - Academic Advising Facilitator App for WP Carey School of Business
 - **[Capstone Helpdesk Ticketing System](https://github.com/Aditya9113/ticketing_system)** – Ticketing system for ASU capstone students
